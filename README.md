@@ -4,18 +4,13 @@ A beginner-friendly Python game where you play Rock, Paper, Scissors against the
 
 How it works:
 The computer randomly picks rock, paper, or scissors.
-
 You enter your choice.
-
 The game tells you if you win, lose, or tie.
-
 If you enter something invalid, it asks you to try again.
 
 How to use:
-Run the script with Python 3.
-
+Run the script with Python.
 Follow the prompts and enter your choice.
-
 See the result printed on the screen.
 
-If you want, I can help you write a full README file or add more features!
+
